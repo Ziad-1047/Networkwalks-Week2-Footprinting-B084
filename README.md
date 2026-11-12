@@ -63,12 +63,13 @@ For the final activity, I used Zenmap on my Kali Linux machine to perform networ
 *   **cURL Headers Output:** 
     ![cURL](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/curl.png)
 *   **Wafw00f Output:** 
-    ![Wafw00f](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/wafwoof.png)
+    ![Wafw00f](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/wafw00f.png)
 *   **DNSRecon Output:** 
     ![DNSRecon](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/dnsrecon.png)
 
 ### PM3: Maltego Graph
-*   **Email Harvesting Transform:** 
+*   **Email Harvesting Transform:**
+  
     ![Maltego Email](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/maltego_transforms_email.png)
 *   **Footprint XXL Infrastructure Map:** 
     ![Maltego Footprint](https://github.com/Ziad-1047/Networkwalks-Week2-Footprinting-B084/blob/main/maltego_footprint.png)
